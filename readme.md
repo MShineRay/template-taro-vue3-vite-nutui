@@ -1,4 +1,4 @@
-# template-taro-vue3-vite
+# template-taro-vue3-vite-nutui
 
 ## TODO
 - vite+nutui 目前不能正常使用
